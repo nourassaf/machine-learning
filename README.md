@@ -1,1 +1,3 @@
 # ml-group-project
+
+the project was completed for the Introduction to Machine Learning course( Master's level) at the University of Helsinki. The objective of the project was to train a machine learning model on labeled NPF data and then predict unlabeled data using that model. There were 3 possible scoring methods for the models: binary accuracy, multi-class accuracy, and perplexity. In this project, the first two are used to evaluate classification models. These two accuracies as scoring methods lead the project to end up choosing Gaussian Process classifier for explaining and predicting NPF data.
